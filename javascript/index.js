@@ -2811,7 +2811,6 @@ var allQueens = [
     arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena,
     aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexafox, lupita, morralisa, papercut, rebelmork, sirena, tiresias, veracruz,
     abhora, astrud, biqtch, dahli, dollyablack, evah, hoso, jamesm, landoncider, priscillachambers, saint, sigourney, victoriaelizabeth,
-    abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers,
     pangina, 
 ].sort(function (a, b) { return a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()); });
 var allQueensCopy = [];
