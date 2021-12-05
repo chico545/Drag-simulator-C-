@@ -467,22 +467,14 @@ let macarena = new Queen("The Macarena", 6, 7, 6, 5, 5, 7, 7, "Macarena");
 let dres = [arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena];
 
 //LA MAS DRAGA
-let aurora = new Queen("Aurora Wonders", 6, 6, 6, 7, 2, 7, 7, "Aurora");
-let cpher = new Queen("Cpher", 7, 5, 10, 13, 7, 14, 9, "Cpher");
-let elektravandergeld = new Queen("Elektra Vandergeld", 7, 8, 11, 11, 8, 11, 11, "Elektravandergeld");
-let georgiana = new Queen("Georgiana", 7, 7, 8, 10, 10, 11, 9, "Georgiana");
-let irisxc = new Queen("Irisxc", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
-let lacarrera = new Queen("La carrera mami", 5, 3, 8, 6, 9, 8, 7, "Lacarrera");
-let leexafox = new Queen("Leexa Fox", 7, 8, 9, 9, 10, 10, 8, "Leexafox");
-let lupita = new Queen("Lupita Kush", 6, 7, 7, 6, 7, 9, 9, "Lupita");
-let morralisa = new Queen("La Morra Lisa", 6, 7, 6, 5, 5, 7, 7, "Morralisa");
-let papercut = new Queen("Paper Cut", 9, 8, 7, 13, 7, 10, 7, "Papercut");
-let rebelmork = new Queen("Rebel Mork", 7, 7, 9, 11, 9, 11, 8, "Rebelmork");
-let sirena = new Queen("Sirena", 8, 8, 9, 11, 7, 11, 9, "Sirena");
-let tiresias = new Queen("Tiresias", 7, 6, 7, 6, 6, 8, 9, "Tiresias");
-let veracruz = new Queen("Veracruz", 9, 9, 9, 10, 12, 12, 7, "Veracruz");
+let abhora = new Queen("Abhora", 7, 7, 8, 11, 9, 10, 8, "Abhora");
+let dahli = new Queen("Dahli", 9, 9, 9, 9, 9, 9, 9, "Dahli");
+let dollyablack = new Queen("Dollya Black", 6, 7, 9, 11, 10, 11, 10, "Dollyablack");
+let jamesm = new Queen("James Majesty", 7, 7, 8, 11, 8, 11, 10, "Jamesm");
+let landoncider = new Queen("Landon Cider", 8, 8, 8, 11, 11, 9, 9, "Landoncider");
+let priscillachambers = new Queen("Priscilla Chambers", 9, 9, 8, 6, 8, 6, 9, "priscillachambers");
 
-let lmd = [aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexafox, lupita, morralisa, papercut, rebelmork, sirena, tiresias, veracruz];
+let lmd = [abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers];
 
 
 //SPECIAL
@@ -516,7 +508,7 @@ amadiva, annee, b, bunny, dearis, jaja, meannie, morrigan, natalia, petchra,
 angele, bandit, genie, kana, kandyz, katy, m, maya, mocha, gimhuay, silver, srimala, tormai, vanda,
 anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi,
 arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena,
-aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc,
+abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers
 pangina
 ].sort((a, b) => a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()));
 
