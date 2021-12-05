@@ -486,13 +486,20 @@ let lmd = [aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexa
 
 //LA MAS DRAGA SEASON 2
 let abhora = new Queen("Abhora", 7, 7, 8, 11, 9, 10, 8, "Abhora");
+let astrud = new Queen("Astrud Aurelia", 5, 5, 8, 12, 9, 9, 6, "Astrud");
+let biqtch = new Queen("Biqtch Puddin", 9, 10, 5, 4, 9, 4, 8, "Biqtch");
 let dahli = new Queen("Dahli", 9, 9, 9, 9, 9, 9, 9, "Dahli");
 let dollyablack = new Queen("Dollya Black", 6, 7, 9, 11, 10, 11, 10, "Dollyablack");
+let evah = new Queen("Evah Destruction", 7, 7, 8, 9, 9, 6, 6, "EvahD");
+let hoso = new Queen("Hoso Terra Toma", 7, 8, 4, 12, 5, 13, 5, "Hoso");
 let jamesm = new Queen("James Majesty", 7, 7, 8, 11, 8, 11, 10, "Jamesm");
 let landoncider = new Queen("Landon Cider", 8, 8, 8, 11, 11, 9, 9, "Landoncider");
 let priscillachambers = new Queen("Priscilla Chambers", 9, 9, 8, 6, 8, 6, 9, "priscillachambers");
+let saint = new Queen("Saint", 7, 6, 9, 9, 6, 12, 3, "Saint");
+let sigourney = new Queen("Sigourney Beaver", 10, 8, 10, 9, 8, 10, 9, "Sigourney");
+let victoriaelizabeth = new Queen("Victoria Elizabeth Black", 8, 6, 9, 14, 8, 15, 9, "Victoriaelizabeth");
 
-let lmd_2 = [abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers];
+let lmd_2 = [abhora, astrud, biqtch, dahli, dollyablack, evah, hoso, jamesm, landoncider, priscillachambers, saint, sigourney, victoriaelizabeth];
 
 
 //SPECIAL
@@ -527,7 +534,7 @@ angele, bandit, genie, kana, kandyz, katy, m, maya, mocha, gimhuay, silver, srim
 anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi,
 arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena, 
 aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexafox, lupita, morralisa, papercut, rebelmork, sirena, tiresias, veracruz,
-abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers,
+abhora, astrud, biqtch, dahli, dollyablack, evah, hoso, jamesm, landoncider, priscillachambers, saint, sigourney, victoriaelizabeth,
 pangina
 ].sort((a, b) => a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()));
 
