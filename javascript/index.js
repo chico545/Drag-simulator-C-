@@ -2751,13 +2751,29 @@ var sagittaria = new Queen("Sagittaria", 7, 8, 9, 9, 8, 9, 8, "Sagittaria");
 var macarena = new Queen("The Macarena", 6, 7, 6, 5, 5, 7, 7, "Macarena");
 var dres = [arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena];
 //LA MAS DRAGA
+var aurora = new Queen("Aurora Wonders", 6, 6, 6, 7, 2, 7, 7, "Aurora");
+var cpher = new Queen("Cpher", 7, 5, 10, 13, 7, 14, 9, "Cpher");
+var elektravandergeld = new Queen("Elektra Vandergeld", 7, 8, 11, 11, 8, 11, 11, "Elektravandergeld");
+var georgiana = new Queen("Georgiana", 7, 7, 8, 10, 10, 11, 9, "Georgiana");
+var irisxc = new Queen("Irisxc", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
+var lacarrera = new Queen("La carrera mami", 5, 3, 8, 6, 9, 8, 7, "Lacarrera");
+var leexafox = new Queen("Leexa Fox", 7, 8, 9, 9, 10, 10, 8, "Leexafox");
+var lupita = new Queen("Lupita Kush", 6, 7, 7, 6, 7, 9, 9, "Lupita");
+var morralisa = new Queen("La Morra Lisa", 6, 7, 6, 5, 5, 7, 7, "Morralisa");
+var papercut = new Queen("Paper Cut", 9, 8, 7, 13, 7, 10, 7, "Papercut");
+var rebelmork = new Queen("Rebel Mork", 7, 7, 9, 11, 9, 11, 8, "Rebelmork");
+var sirena = new Queen("Sirena", 8, 8, 9, 11, 7, 11, 9, "Sirena");
+var tiresias = new Queen("Tiresias", 7, 6, 7, 6, 6, 8, 9, "Tiresias");
+var veracruz = new Queen("Veracruz", 9, 9, 9, 10, 12, 12, 7, "Veracruz");
+var lmd = [aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexafox, lupita, morralisa, papercut, rebelmork, sirena, tiresias, veracruz];
+//LA MAS DRAGA SEASON 2
 var abhora = new Queen("Abhora", 7, 7, 8, 11, 9, 10, 8, "Abhora");
 var dahli = new Queen("Dahli", 9, 9, 9, 9, 9, 9, 9, "Dahli");
 var dollyablack = new Queen("Dollya Black", 6, 7, 9, 11, 10, 11, 10, "Dollyablack");
 var jamesm = new Queen("James Majesty", 7, 7, 8, 11, 8, 11, 10, "Jamesm");
 var landoncider = new Queen("Landon Cider", 8, 8, 8, 11, 11, 9, 9, "Landoncider");
 var priscillachambers = new Queen("Priscilla Chambers", 9, 9, 8, 6, 8, 6, 9, "priscillachambers");
-var lmd = [abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers];
+var lmd_2 = [abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers];
 //SPECIAL
 var pangina = new Queen("Pangina Heals", 10, 10, 9, 12, 9, 13, 11);
 var international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
