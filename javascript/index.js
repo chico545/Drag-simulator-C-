@@ -2766,6 +2766,22 @@ var sirena = new Queen("Sirena", 8, 8, 9, 11, 7, 11, 9, "Sirena");
 var tiresias = new Queen("Tiresias", 7, 6, 7, 6, 6, 8, 9, "Tiresias");
 var veracruz = new Queen("Veracruz", 9, 9, 9, 10, 12, 12, 7, "Veracruz");
 var lmd = [aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexafox, lupita, morralisa, papercut, rebelmork, sirena, tiresias, veracruz];
+//DRAGULA SEASON 1
+var abhora = new Queen("Abhora", 7, 7, 8, 11, 9, 10, 8, "Abhora");
+var astrud = new Queen("Astrud Aurelia", 5, 5, 8, 12, 9, 9, 6, "Astrud");
+var biqtch = new Queen("Biqtch Puddin", 9, 10, 5, 4, 9, 4, 8, "Biqtch");
+var dahli = new Queen("Dahli", 9, 9, 9, 9, 9, 9, 9, "Dahli");
+var dollya = new Queen("Dollya Black", 6, 7, 9, 11, 10, 11, 10, "Dollya");
+var evah = new Queen("Evah Destruction", 7, 7, 8, 9, 9, 6, 6, "Evah");
+var hoso = new Queen("Hoso Terra Toma", 7, 8, 4, 12, 5, 13, 5, "Hoso");
+var jamesmajesty = new Queen("Abhora", 7, 7, 8, 11, 8, 11, 10, "Jamesmajesty");
+var landon = new Queen("Landon Cider", 8, 8, 8, 11, 11, 9, 9, "Landon");
+var priscilla = new Queen("Priscilla Chambers", 9, 9, 8, 6, 8, 6, 9, "Priscilla");
+var saint = new Queen("Saint", 7, 6, 9, 9, 6, 12, 3, "Saint");
+var sigourney = new Queen("Sigourney Beaver", 10, 8, 10, 9, 8, 10, 9 "Sigourney");
+var victoriaelizabeth = new Queen("Victoria Elizabeth Black", 8, 6, 9, 14, 8, 15, 9, "Victoriaelizabeth");
+var vander = new Queen("Vander Von Odd", 8, 8, 8, 12, 11, 10, 8, "Vander");
+var dragula_1 = [abhora, astrud, biqtch, dahli, dollya, evah, hoso, jamesmajesty, landon, priscilla, saint, sigourney, victoriaelizabeth, vander];
 //SPECIAL
 var pangina = new Queen("Pangina Heals", 10, 10, 9, 12, 9, 13, 11);
 var international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
@@ -2795,6 +2811,7 @@ var allQueens = [
     anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi,
     arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena,
     aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc,
+    abhora, astrud, biqtch, dahli, dollya, evah, hoso, jamesmajesty, landon, priscilla, saint, sigourney, victoriaelizabeth, vander
     pangina
 ].sort(function (a, b) { return a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()); });
 var allQueensCopy = [];
