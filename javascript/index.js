@@ -2760,8 +2760,7 @@ var priscillachambers = new Queen("Priscilla Chambers", 9, 9, 8, 6, 8, 6, 9, "pr
 var lmd = [abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers];
 //SPECIAL
 var pangina = new Queen("Pangina Heals", 10, 10, 9, 12, 9, 13, 11);
-var abhora = new Queen("Abhora", 7, 7, 8, 11, 9, 10, 8, "Abhora");
-var international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina,abhora];
+var international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
 //all possible queens:
 var allQueens = [
     akashia, bebe, jade, ninaf, ongina, rebecca, shannel, tammie, victoria,
@@ -2787,8 +2786,8 @@ var allQueens = [
     angele, bandit, genie, kana, kandyz, katy, m, maya, mocha, gimhuay, silver, srimala, tormai, vanda,
     anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi,
     arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena,
-    aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc,
-    pangina, abhora
+    abhora, dahli, dollyablack, jamesm, landoncider, priscillachambers,
+    pangina, 
 ].sort(function (a, b) { return a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()); });
 var allQueensCopy = [];
 function CheckForReturning() {
