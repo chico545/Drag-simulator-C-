@@ -500,7 +500,7 @@ let sigourney = new Queen("Sigourney Beaver", 10, 8, 10, 9, 8, 10, 9 "Sigourney"
 let victoriaelizabeth = new Queen("Victoria Elizabeth Black", 8, 6, 9, 14, 8, 15, 9, "Victoriaelizabeth");
 let vander = new Queen("Vander Von Odd", 8, 8, 8, 12, 11, 10, 8, "Vander");
 
-let dragula_1 = [abhora, astrud, biqtch, dahli, dollya, evah, hoso, jamesmajesty, landon, priscilla, saint, sigourney, victoriaelizabeth, vander];
+let drula = [abhora, astrud, biqtch, dahli, dollya, evah, hoso, jamesmajesty, landon, priscilla, saint, sigourney, victoriaelizabeth, vander];
 
 
 //SPECIAL
