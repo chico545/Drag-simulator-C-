@@ -2781,7 +2781,7 @@ var saint = new Queen("Saint", 7, 6, 9, 9, 6, 12, 3, "Saint");
 var sigourney = new Queen("Sigourney Beaver", 10, 8, 10, 9, 8, 10, 9 "Sigourney");
 var victoriaelizabeth = new Queen("Victoria Elizabeth Black", 8, 6, 9, 14, 8, 15, 9, "Victoriaelizabeth");
 var vander = new Queen("Vander Von Odd", 8, 8, 8, 12, 11, 10, 8, "Vander");
-var dragula_1 = [abhora, astrud, biqtch, dahli, dollya, evah, hoso, jamesmajesty, landon, priscilla, saint, sigourney, victoriaelizabeth, vander];
+var drula = [abhora, astrud, biqtch, dahli, dollya, evah, hoso, jamesmajesty, landon, priscilla, saint, sigourney, victoriaelizabeth, vander];
 //SPECIAL
 var pangina = new Queen("Pangina Heals", 10, 10, 9, 12, 9, 13, 11);
 var international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
