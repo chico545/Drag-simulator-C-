@@ -294,7 +294,7 @@ let jaida = new Queen("Jaida Essence Hall", 7, 9, 9, 14, 9, 10, 14, "Jaida");
 let jan = new Queen("Jan", 8, 7, 9, 7, 8, 8, 7, "Jan");
 let nicky = new Queen("Nicky Doll", 4, 4, 7, 10, 3, 10, 5, "Nicky");
 let rock = new Queen("Rock M. Sakura", 6, 8, 6, 7, 8, 8, 6, "Rock");
-let sherry = new Queen("Sherry Pie", 10, 10, 7, 6, 10, 8, 8, "Rock");
+let sherry = new Queen("Sherry Pie", 10, 10, 7, 6, 10, 8, 8, "Sherry");
 let widow = new Queen("Widow Von'Du", 8, 9, 7, 7, 9, 8, 9, "Widow");
 let us_season12 =  [aiden, brita, crystal, dahlia, gigi, heidi, jackie, jaida, jan, nicky, rock, sherry, widow];
 
